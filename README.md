@@ -12,3 +12,4 @@
 </br>卡爾曼濾波器的主要步驟有兩個：1.預估  2.測量更新
 </br><li> 預估：假如一數值在理論上時間內是不變得，但是實際上一段時間後就會有誤差，這些誤差就是"高斯白雜訊"
 </br><li> 預估：假如一數值在理論上時間內是不變得，但是實際上測量就會存在誤差，這些誤差也是"高斯白雜訊"
+</br>![A](https://github.com/yuyangdanny/Object-tracking-based-on-Yolov3/blob/master/real-time-result/423182.jpg)
